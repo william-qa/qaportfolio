@@ -13,7 +13,7 @@ Welcome to my portfolio! Here you'll find highlights of my work, skills, and a d
 
 ## 🔗 Resume Download
 
-[📄 Download My Resume (PDF)](./assets/William_Yu_Resume.pdf){:target="_blank"}
+[📄 Resume]({{ site.baseurl }}/assets/William_Yu_Resume.pdf)
 
 ---
 
