@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "home"
-permalink: /portfolio/
+permalink: /
 ---
 
 # 👨🏻‍💼 William Yu  
