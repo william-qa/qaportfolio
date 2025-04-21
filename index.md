@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Portfolio"
+layout: default
+title: "Home"
 permalink: /portfolio/
 ---
 
