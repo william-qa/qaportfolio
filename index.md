@@ -9,14 +9,6 @@ permalink: /portfolio/
 
 Welcome to my portfolio! Here you'll find highlights of my work, skills, and a downloadable version of my resume.
 
----
-
-## 🔗 Resume Download
-
-[📄 Download My Resume (PDF)](/assets/William_Yu_Resume.pdf){:target="_blank"}
-
----
-
 ## 🛠️ Skills & Tools
 
 - **Languages:** Python, SQL, JavaScript  
